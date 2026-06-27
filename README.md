@@ -2,7 +2,7 @@
 
 A production-ready **Zoom-inspired Video Conferencing Platform** built as a Full Stack Web Application. The application replicates the core meeting workflow of Zoom, allowing users to create instant meetings, join meetings using a unique meeting ID or invite link, manage meeting history, and experience real-time video communication through WebRTC.
 
-**Live Demo:** <YOUR_DEPLOYMENT_LINK>
+**Live Demo:** https://zoom-video-app-final-frontend.onrender.com/
 
 **GitHub Repository:** https://github.com/Kavish-Paraswar/Apna-MEET
 
